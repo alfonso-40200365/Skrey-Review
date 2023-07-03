@@ -27,5 +27,9 @@
     "dotenv": "^16.0.3",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "description": "## Table of contents * [Description](#description) * [Technologies](#technologies) * [Setup](#setup)",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
 }
