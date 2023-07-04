@@ -53,7 +53,7 @@ export default function Home() {
       case 'purchase':
         return <PagePurchase feedbacks={feedbacks} stores={stores} products={products} />
       case 'widget':
-        return <PageWidget />
+        return <PageWidget stores={stores} />
       case 'email':
         return <PageEmail />
       default:
